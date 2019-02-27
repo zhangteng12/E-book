@@ -1,5 +1,5 @@
 {
-    "name": "book",
+    "name": "E-book",
       "version": "1.0.0",
         "description": "在线电子书",
           "main": "index.js",
